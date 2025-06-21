@@ -1,12 +1,56 @@
-# React + Vite
+# 🚀 React Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive portfolio web app built using **React**, **Tailwind CSS**, and **Vite**. It showcases your projects, skills, experiences, and includes a contact form — all in a stylish, animated, and smooth interface.
 
-Currently, two official plugins are available:
+## 📸 Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🌟 Homepage
+![Homepage](public/Screenshots/homepage.jpg)
 
-## Expanding the ESLint configuration
+### 💬 Full project
+![Popup](public/Screenshots/full)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 💬 Project
+![Popup](public/Screenshots/full2)
+
+### 💬 Project Popup
+![Popup](public/Screenshots/popup.jpg)
+
+---
+
+## 🔧 Tech Stack Used
+
+- ⚛️ React.js – Frontend UI Framework
+- 💨 Tailwind CSS – For styling and responsiveness
+- ⚡ Vite – Fast build tool and dev server
+- 🖼️ React Icons – For modern icons
+- 🎨 Gradient Buttons, Hover Effects, Smooth Animations
+
+---
+
+## 🔗 Live Demo
+
+👉 **Check it out live here**: [https://your-username.github.io/react-portfolio](https://your-username.github.io/react-portfolio)
+
+(Replace with your actual GitHub Pages or Netlify link if hosted)
+
+---
+
+## 📂 Features
+
+- Clean and colorful design
+- Responsive layout for mobile and desktop
+- Projects section with popup preview modal
+- Contact form with icons and gradient button
+- Interactive navbar with gradient hover effects
+- Dark glass background with blur and shadow effects
+
+---
+
+## 💡 How to Run
+
+```bash
+git clone https://github.com/Parul-Guptaa/react-portfolio.git
+cd react-portfolio
+npm install
+npm run dev
